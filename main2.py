@@ -5,4 +5,6 @@ if __name__ =='__main__':
 	# adding comment
 
 	python code for merging in git all bs
+	new line to be subtracted
+	# new line
 	
